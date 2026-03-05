@@ -5,3 +5,4 @@ public class Add{
 } 
 
 hello
+Scanner sc = new Scanner(System.in) ;
